@@ -74,6 +74,9 @@ Esto generará un archivo con la representación del grafo. Por ejemplo:
 - `grid.getPlayerNodeId()` devuelve el ID del nodo donde está el jugador actualmente.
 - `grid.getEndNodeId()` devuelve el ID del nodo de destino (`b`).
 
+<p align="center">
+  <img src="Gifs/Autocompletado.gif" alt="Animación de funcionamiento" width="1000"/>
+</p>
 
 ---
 
